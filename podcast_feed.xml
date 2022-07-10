@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Groot</title>
+    <link>https://www.moritzkaminski.com/podcast_feed</link>
+    <language>en-us</language>
+    <copyright>n.a.</copyright>
+    <itunes:author>Moritz</itunes:author>
+    <description>
+      Stories about Groot
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>Moritz</itunes:name>
+      <itunes:email>moritz.kaminski@gmx.ch</itunes:email>
+    </itunes:owner>
+    <itunes:image
+      href="https://www.moritzkaminski.com/image%209.png"
+    />
+    <itunes:category text="Technology">
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Introduction to Groot</itunes:title>
+      <description>
+        Groot´s favourite song
+      </description>
+      <enclosure 
+        length="3842" 
+        type="audio/mpeg" 
+        url="https://www.moritzkaminski.com/Mr-Blue-Sky-vidiget-dot-com-207625.mp4"
+      />
+      <guid>false</guid>
+      <pubDate>10 Jul 2022 17:30:00 +0000</pubDate>  
+      <itunes:duration>0502</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value>
+        <podcast:valueRecipient name="moritz@getalby.com" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="LNjlpStpZ64fPiH4OgTR" split="100"/>
+      </podcast:value>
+    </item>
+  </channel>
+</rss>
