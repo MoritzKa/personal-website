@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>Alby</title>
+	<atom:link href="http://wp.play.getalby.com/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>http://wp.play.getalby.com</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 10 Jul 2022 13:01:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=6.0</generator>
+<!-- podcast_generator="Blubrry PowerPress/9.1.1" mode="advanced" feedslug="podcast" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<itunes:summary>Just another WordPress site</itunes:summary>
+	<itunes:author>Alby</itunes:author>
+	<itunes:image href="http://wp.play.getalby.com/wp-content/uploads/2022/07/image-9.png" />
+	<itunes:owner>
+		<itunes:name>Alby</itunes:name>
+		<itunes:email>michael@getalby.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>michael@getalby.com (Alby)</managingEditor>
+	<itunes:subtitle>Just another WordPress site</itunes:subtitle>
+	<image>
+		<title>Alby</title>
+		<url>http://wp.play.getalby.com/wp-content/uploads/2022/07/image-9.png</url>
+		<link>http://wp.play.getalby.com</link>
+	</image>
+	<itunes:category text="Music" />
+	<googleplay:category text="Music"/>
+<podcast:value> <podcast:valueRecipient name="Alby" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3"  customKey="696969"  customValue="gJEGHW2obmG8pZluLjY3"  split="100" /> </podcast:value>	<item>
+		<title>Groot´s song II</title>
+		<link>http://wp.play.getalby.com/groots-song-ii/</link>
+		<pubDate>Tue, 05 Jul 2022 09:30:03 +0000</pubDate>
+		<guid isPermaLink="false">http://wp.play.getalby.com/?p=290</guid>
+		<comments>http://wp.play.getalby.com/groots-song-ii/#respond</comments>
+		<wfw:commentRss>http://wp.play.getalby.com/groots-song-ii/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="http://wp.play.getalby.com/wp-content/uploads/2022/07/Mr-Blue-Sky-vidiget-dot-com-207625.mp4" length="3933627" type="video/mp4" />
+			<itunes:author>Alby</itunes:author>
+		<itunes:duration>5:02</itunes:duration>
+		</item>
+	<item>
+		<title>Groot´s song</title>
+		<link>http://wp.play.getalby.com/groots-song/</link>
+		<pubDate>Tue, 05 Jul 2022 08:55:51 +0000</pubDate>
+		<guid isPermaLink="false">http://wp.play.getalby.com/?p=286</guid>
+		<comments>http://wp.play.getalby.com/groots-song/#respond</comments>
+		<wfw:commentRss>http://wp.play.getalby.com/groots-song/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="http://wp.play.getalby.com/wp-content/uploads/2022/07/Mr-Blue-Sky-vidiget-dot-com-207625.mp4" length="3933627" type="video/mp4" />
+			<itunes:author>Alby</itunes:author>
+		<itunes:duration>5:02</itunes:duration>
+		</item>
+</channel>
+</rss>
